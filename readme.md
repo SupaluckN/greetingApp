@@ -3,8 +3,8 @@
 :shipit:   Use in C language for greeting.  Supported on gcc compiler.
 
 ## Use command for the app.
-####   Compile the app by
+####   Compile the app. by
       gcc greeting.c -o greeting
 
-####   Run this app. by
+####   You can just download a greeting.exe, and apply this by
       greeting
