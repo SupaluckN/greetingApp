@@ -1,6 +1,12 @@
 # greetingApp
 
-Use in C language for greeting.Supported on gcc compiler.
+Use in C language for greeting. Supported on gcc compiler.
 
-## ---Use command for run the app by
-gcc greeting.c -o greeting
+## * Use command for the app.
+      ** Run the app by
+      gcc greeting.c -o greeting
+
+      ** Open this app. by
+      greeting
+
+  :shipit: :shipit:
