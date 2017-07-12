@@ -1,10 +1,10 @@
 # greetingApp
 
-:shipit:  Use in C language for greeting. Supported on gcc compiler.
+:shipit:   Use in C language for greeting.  Supported on gcc compiler.
 
 ## Use command for the app.
-####   Run the app by
+####   Compile the app by
       gcc greeting.c -o greeting
 
-####   Open this app. by
+####   Run this app. by
       greeting
