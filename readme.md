@@ -4,7 +4,7 @@
 
 ## Use command for the app.
 ####   Run the app by
-      > gcc greeting.c -o greeting
+      gcc greeting.c -o greeting
 
 ####   Open this app. by
-      > greeting
+      greeting
