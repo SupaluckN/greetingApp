@@ -1,6 +1,7 @@
- /* greeting.c
-  Version 0.1
+ /*
+  greeting.c
   Written by Supaluck Singjan
+  Version 0.1
   */
 
 #include<stdio.h>
